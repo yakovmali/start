@@ -23,7 +23,7 @@ router.push(`/vod?s=${inputRef.current.value}`)
         <div className='container'>
             <div className='row align-items-center'>
               <div className='logo col-auto'>
-<h1>my  vod</h1>
+<h1>מלי החמודה</h1>
               </div>
               <nav className='col-auto ms-3'>
 <div className='d-flex'>
